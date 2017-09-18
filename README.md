@@ -6,7 +6,7 @@ An implementation of Ripley's K which can be extended for bivariate and spatiote
 * Bivariate Pattern
 * Spatiotemporal Pattern
 
-## Complete Spatial Randomness (CSR）
+## Complete Spatial Randomness (CSR)
 * Homogeneous Possion Process
 * Heterogenous Possion Process
 * Cox Process
@@ -16,3 +16,6 @@ An implementation of Ripley's K which can be extended for bivariate and spatiote
 * Chi-Squared Test
 * Kolmogorov–Smirnov (K-S) Test
 * Monte Carlo Simulation
+
+
+Coming Soon...
