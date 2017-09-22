@@ -1,5 +1,5 @@
 # Extended Ripleys K
-Ripley's K function is usually applied to describe geographical phenomenons at multiple scale based on second order properties.
+Ripley's K function is originally applied to the second order analysis of stationary point process. It can be used to summarize a point pattern, test hypothesis about the pattern, estimate parameters and fit models. The relevance research has penetrated into bivaritate and multivariate generalizations, which provides effective methods to describe relationships between two or more point patterns.
 
 
 An implementation of Ripley's K is provided here, which can be extended for bivariate and spatiotemporal pattern.
